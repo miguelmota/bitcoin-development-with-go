@@ -1,3 +1,27 @@
+---
+description: Tutorial on how to generate Bitcoin wallets with Go.
+---
+
+# Generating New Wallets
+
+
+<!--
+	Implementes interface // https://golang.org/pkg/crypto/#PrivateKey
+
+	//crypto.PrivateKey) ([]byte, error) {
+	//privateKey, ok := priv.(*btcec.PrivateKey)
+
+	//EncodePublicKey(pub crypto.PublicKey) ([]byte, error) {
+	//pubKey, ok := pub.(*btcec.PublicKey)
+-->
+
+---
+
+### Full code
+
+[wallet_generate.go](https://github.com/miguelmota/bitcoin-development-with-go-book/blob/master/code/wallet_generate.go)
+
+```go
 package main
 
 import (
@@ -61,3 +85,4 @@ func main() {
 	fmt.Printf("address [base58] (uncompressed):\n%s\n\n", encUncAddr) // 16385kYLPqkczsyhJirzjunz27bTpqJrNm
 	fmt.Printf("address [base58] (compressed):\n%s\n\n", encCmpAddr)   // 15xQjUYRuk59ijmbCkSFTiP7zYWD4NVN1G
 }
+```
