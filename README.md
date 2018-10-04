@@ -23,6 +23,7 @@ The e-book is avaiable in different formats.
 * [Introduction](en/README.md)
 * [Accounts](en/accounts/README.md)
   * [Generating New Wallets](en/wallet-generate/README.md)
+  * [Account Balances](en/account-balance/README.md)
 
 ## License
 
