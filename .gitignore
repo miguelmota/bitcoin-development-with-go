@@ -14,7 +14,6 @@ tmp/
 .ecrecover.go
 
 # TODO
-en/accounts
 en/block-query
 en/block-subscribe
 en/client

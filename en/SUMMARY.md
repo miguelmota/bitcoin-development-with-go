@@ -1,5 +1,13 @@
 # Summary
 
+* [Introduction](README.md)
+* [Accounts](accounts/README.md)
+  * [Generating New Wallets](wallet-generate/README.md)
+  * [Account Balances](account-balance/README.md)
+* [Transactions](transactions/README.md)
+  * [Send BTC (basic example)](transfer-coin-simple/README.md)
+  * [Send BTC (gather UTXOs)](transfer-coin/README.md)
+
 <!--
 * [Client](client/README.md)
   * [Setting up the Client](client-setup/README.md)

@@ -10,6 +10,7 @@
 
 [https://gobitcoinbook.org](https://gobitcoinbook.org/)
 
+<!--
 ## E-book
 
 The e-book is avaiable in different formats.
@@ -17,6 +18,7 @@ The e-book is avaiable in different formats.
 - [PDF](https://gobitcoinbook.org/bitcoin-development-with-go.pdf)
 - [EPUB](https://gobitcoinbook.org/bitcoin-development-with-go.epub)
 - [MOBI](https://gobitcoinbook.org/bitcoin-development-with-go.mobi)
+-->
 
 ## Contents
 
