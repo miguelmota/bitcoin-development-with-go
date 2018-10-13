@@ -1,0 +1,85 @@
+/*
+SENDER
+
+private key [bytes]:
+[134 20 172 167 139 141 62 115 255 246 146 95 144 83 68 99 114 93 61 164 21 148 98 121 30 203 21 92 135 209 130 90]
+
+private key [hex]:
+8614aca78b8d3e73fff6925f90534463725d3da4159462791ecb155c87d1825a
+
+private key [base58]:
+A2Pv8ferB76fb8S2HbxJkKtPNfgGY3F3jf3oPTeDuDKP
+
+private key [wif] (uncompressed):
+92by5NkrizFMspyrH2C7WwSYeNTs86PwiNVNpL6LZP6DbQ2SRhg
+
+private key [wif] (compressed):
+cS5LWK2aUKgP9LmvViG3m9HkfwjaEJpGVbrFHuGZKvW2ae3W9aUe
+
+public key [bytes] (uncompressed):
+[4 216 3 244 213 162 176 49 249 79 64 236 119 48 190 216 75 172 239 45 140 67 131 217 162 246 31 102 240 218 73 61 151 155 173 232 94 181 133 64 242 62 158 235 48 11 205 10 147 244 160 37 171 176 254 153 63 184 249 93 190 235 254 27 103]
+
+public key [hex] (uncompressed):
+04d803f4d5a2b031f94f40ec7730bed84bacef2d8c4383d9a2f61f66f0da493d979bade85eb58540f23e9eeb300bcd0a93f4a025abb0fe993fb8f95dbeebfe1b67
+
+public key [base58] (uncompressed):
+RnvtRG5JcFW9gpao5Wce9ggqybHzDate48NHAfT9kXvGjpiBfbWTvyYn8FHjWXNTqQnpFbZNo6LK1YmPHC82yM3t
+
+public key bytes (compressed):
+[3 216 3 244 213 162 176 49 249 79 64 236 119 48 190 216 75 172 239 45 140 67 131 217 162 246 31 102 240 218 73 61 151]
+
+public key [hex] (compressed):
+03d803f4d5a2b031f94f40ec7730bed84bacef2d8c4383d9a2f61f66f0da493d97
+
+public key [base58] (compressed):
+29EBg5912qskRr8RWj6vVhrWA338QgDTbwhynCvKrk42i
+
+address [base58] (uncompressed):
+mgjHgKi1g6qLFBM1gQwuMjjVBGMJdrs9pP
+
+address [base58] (compressed):
+msgZ3kjJDBkEfQZtUJYZevWN4isBnWPDPE
+*/
+
+/*
+DESTINATION
+
+private key [bytes]:
+[32 73 70 110 60 38 135 92 170 243 60 150 175 158 182 183 79 249 198 133 3 244 148 115 9 173 24 84 128 140 135 164]
+
+private key [hex]:
+2049466e3c26875caaf33c96af9eb6b74ff9c68503f4947309ad1854808c87a4
+
+private key [base58]:
+3B2rNVNP3ukU16qmXa4mE2Yrohu8vsN9mFGmTQkBgYNo
+
+private key [wif] (uncompressed):
+91q8sWT73Ar5SixEn2po2E6ByAPkpTD455RhWsP3JRHtmPDJRC6
+
+private key [wif] (compressed):
+cNfTjvzDeaTccYAoom3x8QmuQtTSQSgCYzY1pqNH9tDZUrUWZFgT
+
+public key [bytes] (uncompressed):
+[4 5 103 142 151 213 245 195 199 154 109 159 201 84 185 252 117 227 38 236 110 246 117 153 7 108 37 128 23 190 122 167 130 13 159 238 195 82 12 27 90 36 147 171 220 41 193 43 229 161 178 29 159 129 153 109 71 90 177 112 231 190 58 23 122]
+
+public key [hex] (uncompressed):
+0405678e97d5f5c3c79a6d9fc954b9fc75e326ec6ef67599076c258017be7aa7820d9feec3520c1b5a2493abdc29c12be5a1b21d9f81996d475ab170e7be3a177a
+
+public key [base58] (uncompressed):
+MahoK6PFTWgskgC4wUqShNhVkwYMbbaiFXtFjkJuQ8JJJcy97wn8N92dbAdpzNR4qDJjCvzArwLbJnzaZGgEVcQ9
+
+public key bytes (compressed):
+[2 5 103 142 151 213 245 195 199 154 109 159 201 84 185 252 117 227 38 236 110 246 117 153 7 108 37 128 23 190 122 167 130]
+
+public key [hex] (compressed):
+0205678e97d5f5c3c79a6d9fc954b9fc75e326ec6ef67599076c258017be7aa782
+
+public key [base58] (compressed):
+bpjNEW2MThXnR3G2T7DNVkyhmkpL5KNZemnJQAKb7tUh
+
+address [base58] (uncompressed):
+mgs2eXmc8Lai17pP7WvrY7QXKeXJSXpSCU
+
+address [base58] (compressed):
+mrdKfqWEkwferzEQus5NpgK2Dtpq7Qcgif
+*/

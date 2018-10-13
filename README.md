@@ -24,6 +24,9 @@ The e-book is avaiable in different formats.
 * [Accounts](en/accounts/README.md)
   * [Generating New Wallets](en/wallet-generate/README.md)
   * [Account Balances](en/account-balance/README.md)
+* [Transactions](en/transactions/README.md)
+  * [Send BTC (basic example)](en/transfer-coin-simple/README.md)
+  * [Send BTC (gather UTXOs)](en/transfer-coin/README.md)
 
 ## License
 

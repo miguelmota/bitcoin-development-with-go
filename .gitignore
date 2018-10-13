@@ -14,7 +14,6 @@ tmp/
 .ecrecover.go
 
 # TODO
-en/account-balance
 en/accounts
 en/block-query
 en/block-subscribe
@@ -29,7 +28,6 @@ en/transaction-query
 en/transactions
 en/transfer-coin
 
-account_balance.go
 address.go
 blocks.go
 client.go
@@ -37,3 +35,4 @@ signature_generate.go
 signature_verify.go
 transactions.go
 transfer_coin.go
+transfercoin*.go
