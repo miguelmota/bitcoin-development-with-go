@@ -2,6 +2,8 @@
 description: Tutorial on how to read account balances from the bitcoin blockchain with Go.
 ---
 
+# Account Balances
+
 ---
 
 ### Full code
